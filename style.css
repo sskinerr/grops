@@ -1,0 +1,48 @@
+*{
+padding: 0;
+margin: 0;}
+
+#dateContent{
+background: #ffbc40;
+
+color: black;
+width: 100%;
+text-align: center;
+font-size: 6.61vh;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+table{
+border-top: 3px solid black;
+height: 85vH;
+position: absolute;
+bottom: 0;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: 600;
+width: 100%;
+font-size: 100%;
+border-collapse: collapse;}
+
+td{
+border-bottom: 3px solid black;}
+
+.number{
+font-family: monospace;
+text-align: center;
+width: 7%;
+background: black;
+color:white;}
+
+.name{
+padding-left: 15px;
+width:60%;
+border-right: 3px solid black;}
+
+.check{
+border-right: 2px solid black;
+text-align: center;}
+
+.nema{
+background: rgb(255, 70, 70);}
+
+.ye{
+background: rgb(70, 255, 70);}
